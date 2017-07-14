@@ -10,7 +10,7 @@ sub_title: "Freeware Desktop Locker For Windows"
 downloads: true
 ---
 
-<div class="w3-opacity-min w3-blue w3-padding">
+<div class="w3-display-container w3-opacity-min w3-blue w3-padding">
 	<div class="w3-content">
 		<h2 class="w3-center w3-wide w3-text-light-gray w3-padding"><i class="fa fa-question-circle-o fa-fw fa-4x w3-text-light-gray w3-hover-opacity-off"></i><br> What is G Security? </h2>
 		<div class="w3-cell-row w3-center">
