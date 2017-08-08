@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 permalink: /about/
-image: "{{ site.baseurl }}/img/parallax4.jpg"
+image: /img/parallax4.jpg
 main_title: "About Us"
 sub_title: "So, who are we?"
 downloads: false

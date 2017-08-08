@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 permalink: /contact/
-image: "{{ site.baseurl }}/img/parallax5.jpg"
+image: /img/parallax5.jpg
 main_title: "Contact Us"
 sub_title: "We are always waiting for your message"
 downloads: false

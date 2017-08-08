@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 permalink: /features/
-image: "{{ site.baseurl }}/img/parallax2.jpg"
+image: /img/parallax2.jpg
 main_title: "Features"
 sub_title: "Below is a list of features of G Security"
 downloads: false
