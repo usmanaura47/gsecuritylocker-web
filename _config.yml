@@ -25,12 +25,12 @@ enforce_ssl: "https://gsecuritylocker.tk"
 
 twitter:
   username: malikusmanaura
-  image: /img/gsecurity-logo.png
+  image: {{ site.baseurl }}/img/gsecurity-logo.png
   
 image: 
-  path: /img/gsecurity-logo.png
+  path: {{ site.baseurl }}/img/gsecurity-logo.png
 
-logo: /img/gsecurity-logo.png
+logo: {{ site.baseurl }}/img/gsecurity-logo.png
 
 author: "Malik Usman Aura"
 social:

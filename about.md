@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 permalink: /about/
-image: "img/parallax4.jpg"
+image: "{{ site.baseurl }}/img/parallax4.jpg"
 main_title: "About Us"
 sub_title: "So, who are we?"
 downloads: false
@@ -16,7 +16,7 @@ downloads: false
 			<div class="w3-col m3">&nbsp;</div>
 			<div class="w3-padding w3-col m6">
 				<div class="w3-card-4 w3-light-gray w3-round-large">
-					<img src="/img/LeoSoftwaresLogo.png" alt="Leo Softwares Pakistan" style="width: 100%;">
+					<img src="{{ site.baseurl }}/img/LeoSoftwaresLogo.png" alt="Leo Softwares Pakistan" style="width: 100%;">
 					<div class="w3-white w3-container w3-round-large">
 						<h3 class="w3-center">Leo Softwares Pak</h3>
 					</div>

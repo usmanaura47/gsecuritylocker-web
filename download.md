@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 permalink: /download/
-image: "img/parallax3.jpg"
+image: "{{ site.baseurl }}/img/parallax3.jpg"
 main_title: "Downloads"
 sub_title: "Download G Security Now"
 downloads: false
@@ -30,7 +30,7 @@ downloads: false
 						<td>Our Offical Mirror</td>
 						<td><label class="w3-green w3-padding-small">Active</label></td>
 						<td>1.0</td>
-						<td><a class="w3-button w3-green w3-padding-small" href="/downloads/GSecurityv1.0.zip">Download Now</a></td>
+						<td><a class="w3-button w3-green w3-padding-small" href="{{ site.baseurl }}/downloads/GSecurityv1.0.zip">Download Now</a></td>
 					</tr>
 					<tr>
 						<td>2</td>

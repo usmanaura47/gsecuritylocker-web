@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 permalink: /
-image: "img/parallax1.jpg"
+image: "{{ site.baseurl }}/img/parallax1.jpg"
 main_title: "G Security Desktop Locker"
 sub_title: "Freeware Desktop Locker For Windows"
 downloads: true
