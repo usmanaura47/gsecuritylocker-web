@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 permalink: /
-image: "/img/parallax1.jpg"
+image: "img/parallax1.jpg"
 main_title: "G Security Desktop Locker"
 sub_title: "Freeware Desktop Locker For Windows"
 downloads: true
@@ -79,7 +79,7 @@ downloads: true
 			<div class="w3-col m2"> &nbsp; </div>
 			<div class="w3-col m4 w3-padding" data-aos="flip-right">
 				<div class="w3-card-2">
-					<img class="w3-image dy-img w3-hover-opacity" src="/img/gsecurity-main.png" alt="G Security Desktop Locker 1">
+					<img class="w3-image dy-img w3-hover-opacity" src="img/gsecurity-main.png" alt="G Security Desktop Locker 1">
 					<div class="w3-container w3-gray">
 						<h4>G Security Lock Screen</h4>
 					</div>
@@ -87,7 +87,7 @@ downloads: true
 			</div>
 			<div class="w3-col m4 w3-padding" data-aos="flip-left">
 				<div class="w3-card-2">
-					<img class="w3-image dy-img w3-hover-opacity" src="/img/gsecurity-settings.png" alt="G Security Desktop Locker 2">
+					<img class="w3-image dy-img w3-hover-opacity" src="img/gsecurity-settings.png" alt="G Security Desktop Locker 2">
 					<div class="w3-container w3-gray">
 						<h4>Settings Window</h4>
 					</div>
@@ -98,7 +98,7 @@ downloads: true
 			<div class="w3-col m2"> &nbsp; </div>
 			<div class="w3-col m4 w3-padding" data-aos="flip-right">
 				<div class="w3-card-2">
-					<img class="w3-image dy-img w3-hover-opacity" src="/img/gsecurity-about.png" alt="G Security Desktop Locker 3">
+					<img class="w3-image dy-img w3-hover-opacity" src="img/gsecurity-about.png" alt="G Security Desktop Locker 3">
 					<div class="w3-container w3-gray">
 						<h4>About Window</h4>
 					</div>
@@ -106,7 +106,7 @@ downloads: true
 			</div>
 			<div class="w3-col m4 w3-padding" data-aos="flip-left">
 				<div class="w3-card-2">
-					<img class="w3-image dy-img w3-hover-opacity" src="/img/gsecurity-logviewer.png" alt="G Security Desktop Locker 4">
+					<img class="w3-image dy-img w3-hover-opacity" src="img/gsecurity-logviewer.png" alt="G Security Desktop Locker 4">
 					<div class="w3-container w3-gray">
 						<h4>Log Viewer</h4>
 					</div>
@@ -124,7 +124,7 @@ downloads: true
 		</h2>
 		<div class="w3-third w3-padding">
 			<div class="w3-card-2">
-				<a href="http://www.softpedia.com/get/Security/Lockdown/G-Security.shtml" target="_blank"><img class="w3-hover-opacity w3-padding award-img" src="/img/softpedia_award.gif" alt="Softpedia Award"></a>
+				<a href="http://www.softpedia.com/get/Security/Lockdown/G-Security.shtml" target="_blank"><img class="w3-hover-opacity w3-padding award-img" src="img/softpedia_award.gif" alt="Softpedia Award"></a>
 				<div class="w3-container w3-white">
 					<h4>100% Clean Award By Softpedia</h4>
 				</div>
@@ -132,7 +132,7 @@ downloads: true
 		</div>
 		<div class="w3-third w3-padding">
 			<div class="w3-card-2">
-				<a href="http://www.majorgeeks.com/files/details/g_security.html" target="_blank"><img class="w3-hover-opacity w3-padding award-img" src="/img/mg_approved.gif" alt="Majorgeeks Award"></a>
+				<a href="http://www.majorgeeks.com/files/details/g_security.html" target="_blank"><img class="w3-hover-opacity w3-padding award-img" src="img/mg_approved.gif" alt="Majorgeeks Award"></a>
 				<div class="w3-container w3-white">
 					<h4>100% Clean Award By Majorgeeks.com</h4>
 				</div>
@@ -140,7 +140,7 @@ downloads: true
 		</div>
 		<div class="w3-third w3-padding">
 			<div class="w3-card-2">
-				<a href="http://www.converter-soft.com/G_Security-softid-401485.html" target="_blank"><img class="w3-hover-opacity w3-padding award-img" src="/img/5star.png" alt="Converter-Soft Award"></a>
+				<a href="http://www.converter-soft.com/G_Security-softid-401485.html" target="_blank"><img class="w3-hover-opacity w3-padding award-img" src="img/5star.png" alt="Converter-Soft Award"></a>
 				<div class="w3-container w3-white">
 					<h4>Converter-Soft 5 Star Award</h4>
 				</div>
