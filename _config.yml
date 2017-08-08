@@ -28,9 +28,9 @@ twitter:
   image: "{{ site.baseurl }}/img/gsecurity-logo.png"
   
 image: 
-  path: "{{ site.baseurl }}/img/gsecurity-logo.png"
+  path: "/img/gsecurity-logo.png"
 
-logo: "{{ site.baseurl }}/img/gsecurity-logo.png"
+logo: "/img/gsecurity-logo.png"
 
 author: "Malik Usman Aura"
 social:
