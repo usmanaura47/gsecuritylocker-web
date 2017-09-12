@@ -15,13 +15,13 @@ title: "G Security Desktop Locker"
 description: "G Security is an easy to use, freeware, fast, secure, advance and compact desktop locker, screen locker developed for Microsoft Windows by Leo Softwares Pakistan"
 keywords: "screen locker, desktop locker, windows free locker, secure locking software, windows locking software freeware, Pakistan, malik usman aura, best locking program, free download"
 email: usmanaura47@gmail.com
-baseurl: "/gsecuritylocker-web" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 favicon:     "favicon.ico"
 touch_icon:  "apple-touch-icon.png"
 google_analytics_key: "" ## put YOUR key here to enable tracking! (blank to disable)
 
-url: ""
-enforce_ssl: ""
+url: https://gsecuritylocker.tk
+enforce_ssl: gsecuritylocker.tk
 
 twitter:
   username: malikusmanaura
