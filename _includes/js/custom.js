@@ -43,4 +43,8 @@ $(document).ready(function() {
 		  }
 		}
 	});
+	
+	$('.response').click(function(){
+		$(this).hide(1200);
+	});
 });

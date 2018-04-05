@@ -27,27 +27,20 @@ downloads: false
 				<tbody>
 					<tr>
 						<td>1</td>
-						<td>Our Offical Mirror</td>
-						<td><label class="w3-green w3-padding-small">Active</label></td>
-						<td>1.0</td>
-						<td><a class="w3-button w3-green w3-padding-small" href="{{ site.baseurl }}/downloads/GSecurityv1.0.zip">Download Now</a></td>
-					</tr>
-					<tr>
-						<td>2</td>
 						<td>Sourceforge.net</td>
 						<td><label class="w3-green w3-padding-small">Active</label></td>
 						<td>1.0</td>
 						<td><a class="w3-button w3-green w3-padding-small" href="http://www.sourceforge.net/projects/g-security-desktop-locker/files/latest/download">Download Now</a></td>
 					</tr>
 					<tr>
-						<td>3</td>
+						<td>2</td>
 						<td>Majorgeeks.com</td>
 						<td><label class="w3-green w3-padding-small">Active</label></td>
 						<td>1.0</td>
 						<td><a class="w3-button w3-green w3-padding-small" href="http://www.majorgeeks.com/mg/getmirror/g_security,1.html">Download Now</a></td>
 					</tr>
 					<tr>
-						<td>4</td>
+						<td>3</td>
 						<td>FreewareFiles.com</td>
 						<td><label class="w3-green w3-padding-small">Active</label></td>
 						<td>1.0</td>
