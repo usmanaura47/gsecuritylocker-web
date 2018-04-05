@@ -41,10 +41,10 @@ downloads: false
 			<h3 class="w3-wide w3-center">Or Contact Us Directly</h3>
 			<hr/>
 			<p class="w3-center w3-padding">
-				<a href="https://leosoftwares4u.tk" class="w3-button w3-green w3-round-large" target="_blank"><i class="fa fa-globe fa-fw" aria-hidden="true"></i>Our Website</a>
-				<a href="https://www.facebook.com/leosoftwarespak/" class="w3-button w3-green w3-round-large" target="_blank"><i class="fa fa-facebook fa-fw" aria-hidden="true"></i>Facebook</a>
-				<a href="https://twitter.com/LeoSoftwaresPak" class="w3-button w3-green w3-round-large" target="_blank"><i class="fa fa-twitter fa-fw" aria-hidden="true"></i>Twitter</a>
-				<a href="https://plus.google.com/+MalikUsmanAura" class="w3-button w3-green w3-round-large" target="_blank"><i class="fa fa-google-plus-official fa-fw" aria-hidden="true"></i>Google Plus</a>
+				<a href="https://leosoftwares4u.tk" class="w3-button w3-green" target="_blank"><i class="fa fa-globe fa-fw" aria-hidden="true"></i>Our Website</a>
+				<a href="https://www.facebook.com/leosoftwarespak/" class="w3-button w3-green" target="_blank"><i class="fa fa-facebook fa-fw" aria-hidden="true"></i>Facebook</a>
+				<a href="https://twitter.com/LeoSoftwaresPak" class="w3-button w3-green" target="_blank"><i class="fa fa-twitter fa-fw" aria-hidden="true"></i>Twitter</a>
+				<a href="https://plus.google.com/+MalikUsmanAura" class="w3-button w3-green" target="_blank"><i class="fa fa-google-plus-official fa-fw" aria-hidden="true"></i>Google Plus</a>
 			</p>
 		</div>
 	</div>
