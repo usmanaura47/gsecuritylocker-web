@@ -19,7 +19,7 @@ You need Ruby and gem before starting, then:
 gem install bundler
 
 # clone the project
-git clone https://github.com/usmanaura47/gsecuritylocker-web.git
+git clone https://github.com/usmanaura47/g-security-locker-site.git
 cd gsecuritylocker-web
 
 # run jekyll with dependencies
