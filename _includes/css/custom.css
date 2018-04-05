@@ -35,6 +35,12 @@ html, body {
 	max-width: 200px;
 }
 
+@media only screen and (max-device-width: 1024px) {
+    .parallax-e {
+        background-attachment: scroll;
+    }
+}
+
 .cf:before,
 .cf:after {
     content: " "; /* 1 */
