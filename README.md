@@ -20,7 +20,7 @@ gem install bundler
 
 # clone the project
 git clone https://github.com/usmanaura47/g-security-locker-site.git
-cd gsecuritylocker-web
+cd g-security-locker-site
 
 # run jekyll with dependencies
 bundle exec jekyll serve
