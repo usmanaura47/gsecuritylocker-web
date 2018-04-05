@@ -16,7 +16,7 @@ downloads: false
 			<div class="w3-col m3">&nbsp;</div>
 			<div class="w3-padding w3-col m6">
 				<div class="w3-card-4">
-					<img src="{{ site.baseurl }}/img/LeoSoftwaresLogo.png" alt="Leo Softwares Pakistan">
+					<img class="w3-image" src="{{ site.baseurl }}/img/LeoSoftwaresLogo.png" alt="Leo Softwares Pakistan">
 				</div>
 			</div>
 		</div>
