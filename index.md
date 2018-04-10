@@ -7,7 +7,7 @@ permalink: /
 image: /img/parallax1.jpg
 main_title: "G Security Desktop Locker"
 sub_title: "Freeware Desktop Locker For Windows"
-downloads: true
+downloads: false
 ---
 
 <div class="w3-display-container w3-opacity-min w3-blue w3-padding">
