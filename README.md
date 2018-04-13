@@ -8,7 +8,7 @@
 
 > *Copyright 2018 [Malik Usman Aura](mailto:usmanaura47@gmail[dot]com)*
 
-To view live website click [here](http://gsecuritylocker.tk)
+To view live website click [here](http://gsecuritylocker.ml)
 
 ## Running locally
 
