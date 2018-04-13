@@ -18,7 +18,7 @@ email: usmanaura47@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 favicon:     "favicon.ico"
 touch_icon:  "apple-touch-icon.png"
-google_analytics_key: "" ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: "UA-76202959-5" ## put YOUR key here to enable tracking! (blank to disable)
 
 url: https://gsecuritylocker.ml
 enforce_ssl: gsecuritylocker.ml
