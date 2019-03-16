@@ -46,9 +46,6 @@ social:
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-exclude:
-  - Gemfile
-  - Gemfile.lock
