@@ -8,7 +8,7 @@
 
 > *Copyright 2020 [Malik Usman Aura](mailto:usmanaura47@gmail[dot]com)*
 
-To view live website click [here](#)
+To view live website click [here](http://securedesktoplocker.tk)
 
 ## Running locally
 
